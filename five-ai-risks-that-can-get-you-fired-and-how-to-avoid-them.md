@@ -14,7 +14,7 @@ By the end of this lesson, you will be able to:
 
 ## Shadow AI and Data Leakage
 
-Imagine installing a seemingly harmless browser plugin or using your personal ChatGPT account to speed up a work task. This is **Shadow AI**—the use of AI tools that corporate IT has neither vetted nor approved.
+Imagine installing a seemingly harmless browser plugin or using your personal ChatGPT account to speed up a work task. This is **Shadow AI**, the use of AI tools that corporate IT has neither vetted nor approved.
 
 While it feels like a productivity boost, it frequently leads to **data leakage**. Every time you paste proprietary code or customer records into an unapproved tool, that data is sent to a third-party server. Depending on their terms of service, your sensitive company information might be used to train their next model. Once it's baked in, you can't claw it back.
 
@@ -22,7 +22,7 @@ Some IT departments react by banning AI tools entirely. However, history shows t
 
 ## Hallucination Laundering
 
-AI models are designed to be helpful, but they still hallucinate—meaning they generate plausible-sounding content that is completely incorrect, delivered with absolute confidence.
+AI models are designed to be helpful, but they still hallucinate, meaning they generate plausible-sounding content that is completely incorrect, delivered with absolute confidence.
 
 **Hallucination laundering** occurs when an employee takes this incorrect AI output and copies it directly into an official work report or presentation without verifying it. By doing this, you are effectively "laundering" the AI's falsehoods through your own professional credibility.
 
@@ -39,7 +39,7 @@ There are two main types of prompt injection:
 
 ## Agentic AI and the Rise of Zombie Agents
 
-AI is evolving from simple chatbots to autonomous **AI agents**. These agents can execute complex workflows independently—reading and writing to databases, making API calls, and even writing code or sending messages.
+AI is evolving from simple chatbots to autonomous **AI agents**. These agents can execute complex workflows independently, reading and writing to databases, making API calls, and even writing code or sending messages.
 
 While highly powerful, unauthorized agentic AI introduces severe risks, such as an agent accidentally deleting critical production files or sending unverified emails.
 
@@ -51,8 +51,8 @@ Navigating the world of workplace AI requires a balance between innovation and r
 
 Here are the key takeaways from this lesson:
 
-- **Stick to Approved Tools:** Avoid Shadow AI to protect proprietary and customer data from irreversible leakage.
-- **Verify Everything:** Never practice hallucination laundering. If your name is on the project, you are responsible for its accuracy.
-- **Secure Your Deployments:** Understand the risks of direct and indirect prompt injection when building or utilizing AI integrations.
-- **Manage Your Agents:** Ensure any autonomous AI agent you spin up is monitored, and decommission it properly when the project ends to prevent "zombie" backdoors.
-- **Embrace Governance:** Advocate for clear, flexible corporate AI policies rather than outright bans.
+- Stick to approved tools: avoid Shadow AI to protect proprietary and customer data from irreversible leakage.
+- Verify everything: never practice hallucination laundering. If your name is on the project, you are responsible for its accuracy.
+- Secure your deployments: understand the risks of direct and indirect prompt injection when building or utilizing AI integrations.
+- Manage your agents: ensure any autonomous AI agent you spin up is monitored, and decommission it properly when the project ends to prevent "zombie" backdoors.
+- Embrace governance: advocate for clear, flexible corporate AI policies rather than outright bans.

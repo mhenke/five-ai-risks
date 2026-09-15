@@ -1,8 +1,8 @@
-# Watch-Along Mini-Bingo
+# Watch-along mini-bingo
 
 12 shuffled 3×3 cards for
 [Five AI Risks That Can Get You Fired—And How to Avoid Them](https://www.youtube.com/watch?v=1m55T8xST9s).
-All timestamps removed — play along live during the video.
+All timestamps removed. Play along live during the video.
 
 ## Cards
 
@@ -32,12 +32,12 @@ Tip for hosts: pause once at the start to let everyone open their card, then no 
 
 ## Why 3×3 and not traditional 5×5?
 
-Regulation American bingo is a **5×5 grid** spelling **B-I-N-G-O** (24 squares + center Free Space).
-These cards use a condensed **3×3 B-I-N** "quick-play" mini-bingo variant instead, deliberately:
+Regulation American bingo is a 5×5 grid spelling B-I-N-G-O (24 squares plus center Free Space).
+These cards use a condensed 3×3 B-I-N "quick-play" mini-bingo variant instead, deliberately:
 
-- **Grid dimensions and lettering:** 3×3 with B-I-N columns, 8 squares + center free space.
-- **Content suitability:** the video runs just under 11 minutes with roughly 15–20 distinct talking points. A 5×5 card needs 24 unique prompts per card — in a short video that means either every card is nearly identical (everyone wins at once) or five-in-a-row is nearly impossible. A 3×3 needs only 8 items, so three-in-a-row is achievable in a single watch.
-- **Prompt accuracy:** every prompt maps directly to actual lines, case studies, and topics in the video.
+- Grid dimensions and lettering: 3×3 with B-I-N columns, 8 squares plus center free space.
+- Content suitability: the video runs just under 11 minutes with roughly 15 to 20 distinct talking points. A 5×5 card needs 24 unique prompts per card. In a short video that means either every card is nearly identical (everyone wins at once) or five-in-a-row is nearly impossible. A 3×3 needs only 8 items, so three-in-a-row is achievable in a single watch.
+- Prompt accuracy: every prompt maps directly to actual lines, case studies, and topics in the video.
 
-So: an adapted, functional 3×3 mini-bingo set for quick watch-alongs — not regulation 5×5 cards.
+So this is an adapted, functional 3×3 mini-bingo set for quick watch-alongs, not regulation 5×5 cards.
 If your group requires standard 5×5, expand the grid with viewer reactions, visual cues, or broader AI-industry tropes to fill 24 squares per card.

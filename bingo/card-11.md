@@ -1,8 +1,8 @@
-# Watch-Along Bingo — Card 11
+# Watch-along bingo, card 11
 
 Part of the [watch-along mini-bingo set](./README.md) for
 [Five AI Risks That Can Get You Fired—And How to Avoid Them](https://www.youtube.com/watch?v=1m55T8xST9s).
-Timestamps removed — mark a square when you hear or see it. Center is free.
+No timestamps. Mark a square when you hear or see it. Center is free.
 
 | B | I | N |
 | --- | --- | --- |
