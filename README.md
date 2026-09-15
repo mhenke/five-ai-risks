@@ -7,6 +7,7 @@ Companion materials for the video
 - `ai-quiz.md` — 10-question quiz with answers and hints
 - `five-ai-risks-that-can-get-you-fired-and-how-to-avoid-them.md` — full study-guide text
 - `bingo/` — 12 shuffled 3×3 watch-along mini-bingo cards + how to play ([bingo/README.md](bingo/README.md))
+- `discussion-guide.md` — 15-minute facilitator discussion guide (detective framing, 5 case files, governance rulebook, closing question)
 
 ## The five risks
 
