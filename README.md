@@ -3,11 +3,10 @@
 Companion materials for the video
 [Five AI Risks That Can Get You Fired—And How to Avoid Them](https://www.youtube.com/watch?v=1m55T8xST9s).
 
-## Contents
-
 - `Five-AI-Risks-That-Can-End-Your-Career-compressed.pptx` — slide deck (asset-compressed: slide images PNG → JPEG, 17.7 MB → 1.6 MB, all 10 slides intact)
 - `ai-quiz.md` — 10-question quiz with answers and hints
 - `five-ai-risks-that-can-get-you-fired-and-how-to-avoid-them.md` — full study-guide text
+- `bingo/` — 12 shuffled 3×3 watch-along mini-bingo cards + how to play ([bingo/README.md](bingo/README.md))
 
 ## The five risks
 
