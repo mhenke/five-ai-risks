@@ -1,47 +1,38 @@
-# 🕵️‍♂️ 15-minute discussion guide: uncovering AI security risks
+# 🕵️‍♂️ 15-minute discussion guide: AI risk forensics
 
-Facilitator guide for
-[Five AI Risks That Can Get You Fired—And How to Avoid Them](https://www.youtube.com/watch?v=1m55T8xST9s).
-Pairs with the [slide deck](./Five-AI-Risks-Forensics-Essential-Questions-and-Insights-compressed.pptx). Hand out [study-guide.md](./study-guide.md) as the pre-read; this file is the timed run-of-show, not the content reference.
+Facilitator run-of-show for either forensics deck. Hand out [study-guide.md](./study-guide.md) as the pre-read; this file times the session.
 
-### 1. Opening: stepping onto the scene (0:00 to 2:00)
+- [Five-AI-Risks-Forensics-Essential-Questions-and-Insights-compressed.pptx](./Five-AI-Risks-Forensics-Essential-Questions-and-Insights-compressed.pptx) (17 slides)
+- [Five-AI-Risks-Forensics-Detective-Material-Merge-compressed.pptx](./Five-AI-Risks-Forensics-Detective-Material-Merge-compressed.pptx) (19 slides, same material with persistent detective-noir artwork)
 
-- Detective framing: set the stage like a noir investigator stepping onto a rain-slicked street. Most AI career disasters are not malicious; they happen when well-meaning people cut corners thinking they are just being productive.
+Both decks cover the 5 essential questions (Part 1) and the non-obvious insights (Part 2), drawn from
+[the video](https://www.youtube.com/watch?v=1m55T8xST9s),
+[five-essential-questions.md](./five-essential-questions.md), and
+[non-obvious-insights.md](./non-obvious-insights.md).
+
+### 1. Opening: the case brief (0:00 to 2:00)
+
+- Detective framing: the team is the forensics unit, reopening five closed cases where well-meaning employees ended their own careers. Each case starts the same way: someone trying to be productive.
 - Discussion hook: "Raise your hand if you have ever seen a personal AI tool or browser extension and wished our official toolkit had that feature built in. That gap between convenient personal tech and slow corporate vetting is where shadow AI temptation takes root."
-- Core premise: using AI without proper governance or human verification is where careers go sideways.
+- Core premise: careers go sideways where AI runs without proper governance or human verification. Two breakdowns drive every case: governance (no approved tools, no visibility into data flows) and verification (personal credibility attached to unvalidated outputs).
 
-### 2. Case file breakdown: examining the 5 suspects (2:00 to 11:00)
+### 2. Part 1: the five essential questions (2:00 to 8:00)
 
-#### Suspect #1: Shadow AI (the unvetted accomplice)
+Walk the deck's Part 1 slides, one question per stop. Keep each to about a minute; the slides carry the detail.
+- Question 1, central theme: careers end where governance and verification break down. Accountability lands on the human who submitted or deployed, never the model.
+- Question 2, the five risk vectors: shadow AI, data leakage, hallucination laundering, prompt injection (direct and indirect), unauthorized agentic AI including zombie agents. Name each vector and its distinct threat; the deck slides give the one-line version.
+- Question 3, facts and evidence: the 1-in-5 breach stat, irreversible model baking, the lawyers with fabricated citations and executives deciding on unverified output, agents deleting files or emailing without a human in the loop.
+- Question 4, purpose and the anti-ban stance: the author wants productivity without termination. Bans drive shadow AI underground and cost all visibility; governance plans with approved tools, use cases, and data boundaries are the fix.
+- Question 5, implications: your name is on the deliverable, so individual accountability stays with you. IT owns the governance gap and the agent inventory. Refusing AI is its own career risk.
+### 3. Part 2: non-obvious insights and tensions (8:00 to 12:00)
 
-- Talking point: employees adopting unapproved tools, such as personal accounts or browser plugins, outside IT visibility.
-- The evidence: 1 in 5 organizations report a data breach caused by shadow AI. Simply banning tools backfires because employees move to personal devices, leaving IT blind to the risk.
+Walk the deck's Part 2 slides. These go beyond the video; slow down here.
 
-#### Suspect #2: Data leakage (the evaporating secret)
+- Inferred insights: productivity itself is the attack vector, since top performers optimizing workflows cause most incidents. Verification is structurally bottlenecked because output scales exponentially while auditing stays linear, so rubber-stamping becomes the default. Agents shift identity management from people to scripts, with ephemeral entities keeping API keys after projects end. Approving tools shifts risk rather than removing it, since sanctioned RAG apps still swallow indirect prompt injections.
+- Tensions: ungoverned use ends careers, yet refusing AI ends them too. Bans keep 100% of the risk while losing 100% of the visibility. The org banks the efficiency gains while the employee absorbs the career risk for unverified output.
+- The one takeaway: human verification and explicit credential management bound professional liability. AI adds leverage; oversight decides survival.
 
-- Talking point: pasting proprietary code or sensitive customer records into unapproved third-party tools.
-- The evidence: data sent to third-party servers can be used to train future model versions, making it impossible to claw back. A leak like this leads straight to a career-ending meeting with the CISO.
-
-#### Suspect #3: Hallucination laundering (the false alibi)
-
-- Talking point: taking unverified, plausible-sounding AI output ("slop") and copying it straight into formal work deliverables.
-- The evidence: legal filings packed with fake case citations, executives making major decisions based on unverified stats. The AI's name is not on the document. Yours is.
-
-#### Suspect #4: Prompt injection (the hidden manipulator)
-
-- Talking point: malicious inputs designed to override an AI system's system prompt instructions.
-- The evidence: direct prompt injections target chat windows, while indirect prompt injection hides inside retrieved emails, web pages, or documents to manipulate autonomous workflows in secret.
-
-#### Suspect #5: Unauthorized agentic AI (the zombie rogue)
-
-- Talking point: autonomous agents given system access to read and write databases, call APIs, or send messages without human oversight.
-- The evidence: when projects end, forgotten "zombie AI agents" stay authenticated with active API keys, creating unmonitored backdoor vulnerabilities in company infrastructure.
-
-### 3. The detective's rulebook: governance and verification (11:00 to 13:00)
-
-- Talking point: strict bans only push risks further into the shadows.
-- Core solution: a governance framework with an explicit approved tool list, clear data boundaries, and mandatory human verification before publishing.
-
-### 4. Closing and team discussion (13:00 to 15:00)
+### 4. Closing and team discussion (12:00 to 15:00)
 
 - Wrap-up question for the group: "Which of these five risks is our team's biggest blind spot today, and what verification step should we implement first?"
+- If time allows, a second question from the open list: "Who owns our agent inventory, and what happens to API keys when a project ends?"
