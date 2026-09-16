@@ -6,6 +6,8 @@ All timestamps removed. Play along live during the video.
 
 ## Cards
 
+All 12 also live in one file: [all-cards.md](./all-cards.md).
+
 - [Card 01](./card-01.md)
 - [Card 02](./card-02.md)
 - [Card 03](./card-03.md)
