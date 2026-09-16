@@ -1,4 +1,4 @@
-# Five AI Risks That Can Get You Fired—And How to Avoid Them
+# Study guide: five AI risks that can get you fired, and how to avoid them
 
 ## Introduction
 
