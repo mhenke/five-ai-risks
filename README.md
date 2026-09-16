@@ -3,9 +3,7 @@
 Companion materials for the video
 [Five AI Risks That Can Get You Fired—And How to Avoid Them](https://www.youtube.com/watch?v=1m55T8xST9s).
 
-- `Five-AI-Risks-That-Can-End-Your-Career-compressed.pptx`: slide deck covering the video, asset-compressed (slide images PNG to JPEG, 17.7 MB down to 1.6 MB, all 10 slides intact)
-- `Five-AI-Risks-Forensics-Essential-Questions-and-Insights-compressed.pptx`: follow-up deck, option A, on the 5 essential questions and non-obvious insights, same detective theme (17 slides, 21.9 MB down to 2.1 MB)
-- `Five-AI-Risks-Forensics-Detective-Noir-Variant-compressed.pptx`: follow-up deck, option B, same content with stronger full-bleed detective-noir styling per slide (17 slides, 30.2 MB down to 2.8 MB). Pick the look you prefer.
+- `Five-AI-Risks-Forensics-Essential-Questions-and-Insights-compressed.pptx`: slide deck on the 5 essential questions and non-obvious insights (17 slides, asset-compressed to 2.1 MB)
 - `quiz/`: 10-question quiz with hints ([quiz/quiz.md](quiz/quiz.md)), separate answer key ([quiz/answer-key.md](quiz/answer-key.md)), and folder notes ([quiz/README.md](quiz/README.md))
 - `study-guide.md`: full study-guide text, learner reference and pre-read for the session below
 - `bingo/`: 12 shuffled 3×3 watch-along mini-bingo cards with how to play ([bingo/README.md](bingo/README.md))

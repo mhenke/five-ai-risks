@@ -2,7 +2,7 @@
 
 Facilitator guide for
 [Five AI Risks That Can Get You Fired—And How to Avoid Them](https://www.youtube.com/watch?v=1m55T8xST9s).
-Pairs with the [compressed slide deck](./Five-AI-Risks-That-Can-End-Your-Career-compressed.pptx). Hand out [study-guide.md](./study-guide.md) as the pre-read; this file is the timed run-of-show, not the content reference.
+Pairs with the [slide deck](./Five-AI-Risks-Forensics-Essential-Questions-and-Insights-compressed.pptx). Hand out [study-guide.md](./study-guide.md) as the pre-read; this file is the timed run-of-show, not the content reference.
 
 ### 1. Opening: stepping onto the scene (0:00 to 2:00)
 
